@@ -1,0 +1,3 @@
+# ContactApp-ReactNative
+Contact Application which we can add contacts edit and we can call directly from this App
+This Application allows us to Add contacts, edit and delete contacts and we call directly call from this app...
